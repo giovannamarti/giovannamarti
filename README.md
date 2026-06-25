@@ -1,7 +1,19 @@
 <!-- 🌸 Header -->
 <h2 align="left">Giovanna Martinin 👩🏻‍💻✨</h2>
 
-
+<p align="left">
+  <a href="https://github.com/giovannamarti">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://(https://www.linkedin.com/in/giovanna-martinin/)">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:giovannamartinin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 
 <!-- 🎀 Badges -->
